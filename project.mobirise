@@ -595,7 +595,7 @@
           "title": "CONTACTO",
           "subtitle": "Comuníquese con nosotros a través de nuestro formulario.",
           "form": {
-            "action": "agustinquetto@gmail.com",
+            "action": "info@hogarmaiten.com.ar",
             "alerts": {
               "success": "¡Gracias! Hemos recibido su mensaje."
             },
